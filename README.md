@@ -21,7 +21,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 ## 📂 Project Structure
 
 ```text
-portfolio-site/
+docs/
 ├── index.html    # Main structure and content
 ├── style.css     # Theming and layout styles
 └── script.js    # Interactivity and theme logic
