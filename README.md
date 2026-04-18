@@ -27,6 +27,15 @@ docs/
 └── script.js    # Interactivity and theme logic
 ```
 
+## 🚀 Deployment
+
+This site is configured for **GitHub Pages** using the `docs/` folder:
+
+1.  Push your changes to the `master` branch.
+2.  In your GitHub repository, go to **Settings > Pages**.
+3.  Under **Build and deployment > Branch**, select `master` and change the folder to **`/docs`**.
+4.  Click **Save**.
+
 ## 🎨 Customization
 
 To personalize this portfolio:
